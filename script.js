@@ -38,8 +38,7 @@ function generatePassword() {
   console.log(addLowerCase);
   var addNumericValue = confirm('Would you like to include numeric values?')
   console.log(addNumericValue);
-  var output = 'Cameron';
-  return output
+  
 }
 
 

@@ -2,4 +2,4 @@
 
 ##Password Generator
 
-###For this challenge I created a password generator by initializing prompts, alerts, and confirmations for interactive user feedback. To generate the password criteria I created variables
+###For this challenge I created a password generator by initializing prompts, alerts, and confirmations for interactive user feedback. To generate the password criteria I created variables to represent characters (upper case, lower case, special symbols, and numeric values), and then had to create a for loop to examine the strings elements individually. I created a conditional statement to set a character range which represents the passwords character length.
